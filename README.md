@@ -17,4 +17,5 @@ Python (a programmimg language)
  Successful implemenetation of security control to limit access to one of the organization valuable assessts.
 
 ## Project artifacts
+see projrct file @ Update a file through python (https://github.com/Graceoke-Analyst/Updating-a-file-through-Python-Algorithm/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.md)
 
